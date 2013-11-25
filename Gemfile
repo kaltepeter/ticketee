@@ -49,6 +49,7 @@ group :test do
 	gem 'factory_girl', '~> 2.1.0' 
 	gem 'factory_girl_rails', '~> 1.1', :require => false
 	gem 'email_spec'
+	gem 'selenium-webdriver'
 end
 
 gem 'devise', '~> 1.4.3'
